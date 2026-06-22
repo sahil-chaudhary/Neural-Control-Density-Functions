@@ -11,16 +11,17 @@ __________________________________________
  ## Examples:
  1. We evaluate our method in certifying stability under the presence of multiple equilibria and compare it against Lyapunov Based Method.
 
-| Examples with multiple equilibria|
-|:--:|
-|<img src="Assets/Images/density_Lyapunov.png" width="300"> |
+
+|| Examples with multiple equilibria ||
+||:--:||
+||<img src="Assets/Images/density_Lyapunov.png" width="250"> ||
 
 2. We also evaluate our method in safe-stable control synthesis with non linear dynamics.
 
 
 | Pendulum & Path tracking | Examples from Paper|
 |:--:| :--:|
-|<img src="Assets/Images/control_syn.png" width="400"/> | <img src="Assets/Images/stable_control.png" width="400"/>|
+|<img src="Assets/Images/control_syn.png" width="400" height="200"/> | <img src="Assets/Images/stable_control.png" width="400" height="200"/>|
 ___________________________________________
 ## Code:
 __________________________________________
