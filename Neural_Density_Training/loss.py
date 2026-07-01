@@ -154,7 +154,8 @@ class invariance_loss(nn.Module):
         term2 = (f_plus_gu * grad_a_scaled).sum(dim=1)
 
         return term1 + term2
-    
+
+
 class safety_loss(nn.Module):
     def __init__(self,
                  f,

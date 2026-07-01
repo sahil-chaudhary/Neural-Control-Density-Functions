@@ -14,14 +14,14 @@ __________________________________________
 
 | Examples with multiple equilibria |
 |:--:|
-|<img src="Assets/Images/density_Lyapunov.png" width="250"> ||
+|<img src="Assets/Images/density_Lyapunov.png" width="350"> ||
 
 2. We also evaluate our method in safe-stable control synthesis with non linear dynamics.
 
 
 | Pendulum & Path tracking | Examples from Paper|
 |:--:| :--:|
-|<img src="Assets/Images/control_syn.png" width="400" height="208"/> | <img src="Assets/Images/stable_control.png" width="400" height="210"/>|
+|<img src="Assets/Images/control_syn.png" width="400" height="208"/> | <img src="Assets/Images/stable_control.png" width="400" height="214"/>|
 ___________________________________________
 ## Code:
 __________________________________________
