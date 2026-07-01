@@ -22,7 +22,20 @@ __________________________________________
 | Pendulum & Path tracking | Examples from Paper|
 |:--:| :--:|
 |<img src="Assets/Images/control_syn.png" width="400" height="208"/> | <img src="Assets/Images/stable_control.png" width="400" height="214"/>|
-___________________________________________
-## Code:
 __________________________________________
 ### Dependencies and Instructions:
+We utilize dreal for counterexample generation.
+- [dReal4: v4.19.02.1](https://github.com/dreal/dreal4)
+- [PyTorch: 1.2.0](https://pytorch.org/get-started/locally/)
+
+We provide all the necessary python files for training associated with learning a Neural Density Control and Function using Neural Nework at
+
+- [Neural_Density_Training](https://github.com/sahil-chaudhary/Neural-Control-Density-Functions/tree/main/Neural_Density_Training)
+
+To make any changes, please fork the github and make a pull request. 
+
+We provide examples on how to use the [Neural_Density_Training] at 
+
+- [Experiments](https://github.com/sahil-chaudhary/Neural-Control-Density-Functions/tree/main/Experiments)
+
+
